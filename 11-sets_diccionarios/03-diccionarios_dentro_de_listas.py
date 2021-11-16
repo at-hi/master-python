@@ -15,8 +15,11 @@ contactos = [
     }
 ]
 
-contactos[2]["nombre"] = "Romelu" #Para cambiar el valor a una propiedad
-print(contactos[0]["nombre"]) #Imprimir la variable, acceder a la lista [] y luego acceder al dict []
+#Para cambiar el valor a una propiedad
+contactos[2]["nombre"] = "Romelu"
+
+#Imprimir la variable, acceder a la lista [] y luego acceder al dict []
+print(contactos[0]["nombre"])   
 
 print("\nLista de contactos: ")
 print(f"-----------------------------")

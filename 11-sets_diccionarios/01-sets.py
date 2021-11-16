@@ -1,6 +1,6 @@
 """
 Set: Es un tipo de dato, para tener una coleccion de valores,
-pero no tiene ni indice ni dato y se define con llaves {}
+pero no tiene ni indice ni orden y se define con llaves {}
 """
 
 personas = {
@@ -9,6 +9,7 @@ personas = {
     "Francisco"
 }
 
+# diferentes metodos para usar
 personas.add("Paco")
 personas.remove("Victor")
 
