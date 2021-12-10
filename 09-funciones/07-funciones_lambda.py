@@ -1,4 +1,4 @@
-"""Se definen en una linea y se usa para tareas concreta"""
+"""Se definen en una linea y se usa para tareas concretas"""
 
 dime_el_year = lambda year: f"El año es {year * 50}"
 

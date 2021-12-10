@@ -9,7 +9,7 @@ pelicula = "Batman"
 # Diferentes maneras para defirnir listas
 peliculas = ["Batman", "Spiderman", "Shreck"]
 
-#Para que de esta manera funciones, hay que pasarle una tupla, se encierra entre () de nuevo
+#Para que de esta manera funcione, hay que pasarle una tupla, se encierra entre () de nuevo
 cantantes = list(("drake", "Juan Luis Gerra", "2-pac"))
 
 # Definir una lista con un rango, una colección de números
